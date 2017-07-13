@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity implements ServiceConnection
     private SeekBar sb_music;
     private create_notification create_notification;
     public static int STATE=DISCONNECTED;
-
+    //COMMENT CHƠI NÀ
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
